@@ -1,4 +1,4 @@
-## Alexandre Rehder's stats
+## Alexandre Rehder
 
 <div align="center">
   <a href="https://github.com/alexandrerehder">
